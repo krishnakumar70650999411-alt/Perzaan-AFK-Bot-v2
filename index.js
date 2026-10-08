@@ -7,7 +7,7 @@ const config = {
   server: {
     ip: 'TOKENSMPMC-0vjp.aternos.me',
     port: 53404,
-    version: '26.3'
+    version: '1.21.11'
   },
   username: 'Mota',
   auth: 'offline',
